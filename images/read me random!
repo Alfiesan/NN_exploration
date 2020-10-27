@@ -1,0 +1,6 @@
+The images in this file were generated with RANDOM WEIGHTS.
+Also, the network is initialized with random weights.
+
+What the above means is that this files were not created to make an overfitted network.
+
+They exist to provide a sort of "interactive" view of what happens "inside" of a neural network.
